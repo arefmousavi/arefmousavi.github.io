@@ -1,0 +1,1 @@
+This site is based on Jekyll Theme [Minimalist](https://github.com/BDHU/minimalist) by BDHU.
