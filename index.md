@@ -20,7 +20,7 @@ Previously, I conducted research in computer vision at Isfahan University of Tec
 
 <div style="display:flex; align-items:left;">
   <img src="./assets/img/SUT.png" alt="" style="width:50px; height:50px; margin-right:10px;">
-  <div style="font-size: 90%;">
+  <div style="font-size: 92%;">
     <strong><a href="https://en.sharif.ir/" target="_blank">Sharif University of Technology</a></strong><br>
     M.Sc. in Computer Engineering (Artificial Intelligence)<br>
     2025<br>
@@ -29,7 +29,7 @@ Previously, I conducted research in computer vision at Isfahan University of Tec
 
 <div style="display:flex; align-items:left;">
   <img src="./assets/img/IUT.png" alt="" style="width:50px; height:50px; margin-right:10px;">
-  <div style="font-size: 90%;">
+  <div style="font-size: 92%;">
     <strong><a href="https://english.iut.ac.ir/" target="_blank">Isfahan University of Technology</a></strong><br>
     B.Sc. in Electrical and Electronics Engineering (Control)<br>
     2020 - 2025<br>
@@ -43,15 +43,17 @@ Previously, I conducted research in computer vision at Isfahan University of Tec
 
 
 ## Research Interests
-- Robust Machine Learning (Computer Vision & NLP)
-- Image Processing
-- Intelligent Robotics
+<ul style="padding-left: 1em; margin-left: 0; list-style-position: outside;">
+  <li>Robust Machine Learning (Computer Vision & NLP)</li>
+  <li>Image Processing</li>
+  <li>Intelligent Robotics</li>
+</ul>
 
 
 ## Experience
 <div style="display:flex; align-items:left;">
   <img src="./assets/img/IUT.png" alt="" style="width:50px; height:50px; margin-right:10px;">
-  <div style="font-size: 90%;">
+  <div style="font-size: 92%;">
     <strong>Teaching Assistant</strong><br>
     <a href="https://english.iut.ac.ir/" target="_blank">Isfahan University of Technology</a><br>
     <ul style="padding-left: 1em; margin-left: 0; list-style-position: outside;">
@@ -71,14 +73,15 @@ Previously, I conducted research in computer vision at Isfahan University of Tec
 
 
 ## Publications
-Comming soon
+Comming soon! 
 
 
 ## Awards & Honors
-- Ranked **2nd nationwide** among ~18,000 participants in the 2025 M.Sc. Entrance Exam (Konkor) in **Computer Engineering**
-- Graduated in the **top 3–5%** of 146 B.Sc. students at Isfahan University of Technology
-- Ranked **2nd** in the **RoboCup Asia-Pacific** 2018 competition during high school
-
+<ul style="padding-left: 1em; margin-left: 0; list-style-position: outside;">
+  <li>Ranked <strong>2nd nationwide</strong> among ~18,000 participants in the 2025 M.Sc. Entrance Exam (Konkor) in <strong>Computer Engineering</strong></li>
+  <li>Graduated in the <strong>top 3–5%</strong> of 146 B.Sc. students at Isfahan University of Technology</li>
+  <li>Ranked <strong>2nd</strong> in the <strong>RoboCup Asia-Pacific</strong> 2018 competition during high school</li>
+</ul>
 
 
 ## CV
