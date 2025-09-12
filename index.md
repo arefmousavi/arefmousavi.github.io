@@ -71,7 +71,7 @@ Previously, I conducted research in computer vision at Isfahan University of Tec
 
 
 ## Publications
-Comming soon  
+Comming soon! 
 
 
 ## Awards & Honors
