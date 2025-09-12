@@ -30,9 +30,11 @@ layout: default
     <strong>Isfahan University of Technology</strong><br>
     B.Sc. in Electrical and Electronics Engineering (Control)<br>
     2020 - 2025<br>
-    • Additionally, completed core Computer Engineering coursework through selective and independent study<br>
-    • Achieved a perfect score (20/20) in over 16 specialized courses in both EE & CE<br>
-    • My B.Sc. project was 'Efficient and Vivid Image Colorization via Spectrally-Normalized GAN'<br>
+    <ul style="padding-left: 0;">
+      <li>Additionally, completed core Computer Engineering coursework through selective and independent study</li>
+      <li>Achieved a perfect score (20/20) in over 16 specialized courses in both EE & CE</li>
+      <li>My B.Sc. project was 'Efficient and Vivid Image Colorization via Spectrally-Normalized GAN'</li>
+    </ul>
   </div>
 </div><br>
 
