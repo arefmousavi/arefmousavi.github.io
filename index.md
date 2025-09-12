@@ -16,8 +16,8 @@ layout: default
 ## Education
 
 <div style="display:flex; align-items:left;">
-  <img src="./assets/img/SUT.jpg" alt="" style="width:70px; height:70px; border-radius:50% margin-right:10px;">
-  <div>
+  <img src="./assets/img/SUT.png" alt="" style="width:50px; height:50px; margin-right:10px;">
+  <div style="font-size: 90%;">
     <strong>Sharif University of Technology</strong><br>
     M.Sc. in Computer Engineering (Artificial Intelligence)<br>
     2025<br>
@@ -25,8 +25,8 @@ layout: default
 </div><br>
 
 <div style="display:flex; align-items:left;">
-  <img src="./assets/img/IUT.jpg" alt="" style="width:70px; height:70px; border-radius:50%; margin-right:10px;">
-  <div>
+  <img src="./assets/img/IUT.png" alt="" style="width:50px; height:50px; margin-right:10px;">
+  <div style="font-size: 90%;">
     <strong>Isfahan University of Technology</strong><br>
     B.Sc. in Electrical and Electronics Engineering (Control)<br>
     2020 - 2025<br>
@@ -34,14 +34,14 @@ layout: default
     • Achieved a perfect score (20/20) in over 16 specialized courses in both EE & CE<br>
     • My B.Sc. project was 'Efficient and Vivid Image Colorization via Spectrally-Normalized GAN'<br>
   </div>
-</div>
+</div><br>
 
 ## Research Interests
 
 ## Experience
 <div style="display:flex; align-items:left;">
-  <img src="./assets/img/IUT.jpg" alt="" style="width:70px; height:70px; border-radius:50%; margin-right:10px;">
-  <div>
+  <img src="./assets/img/IUT.png" alt="" style="width:50px; height:50px; margin-right:10px;">
+  <div style="font-size: 90%;">
     <strong>Isfahan University of Technology</strong><br><br>
     <strong>• Teaching Assistant (Machine Learning)</strong><br>
     &ensp;&ensp;Feb 2025 - Jul 2025 · 6 mos<br>
@@ -50,7 +50,7 @@ layout: default
     &ensp;&ensp;Feb 2025 - Jul 2025 · 6 mos<br>
     &ensp;&ensp;Instructed by Dr. Hamed Jalaly
   </div>
-</div>
+</div><br>
 
 ## Publications
 
