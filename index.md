@@ -21,7 +21,7 @@ Previously, I conducted research in computer vision at Isfahan University of Tec
 <div style="display:flex; align-items:left;">
   <img src="./assets/img/SUT.png" alt="" style="width:50px; height:50px; margin-right:10px;">
   <div style="font-size: 90%;">
-    <a href="https://en.sharif.ir/" target="_blank"><strong>Sharif University of Technology</strong></a><br>
+    <strong><a href="https://en.sharif.ir/" target="_blank">Sharif University of Technology</a></strong><br>
     M.Sc. in Computer Engineering (Artificial Intelligence)<br>
     2025<br>
   </div>
@@ -30,7 +30,7 @@ Previously, I conducted research in computer vision at Isfahan University of Tec
 <div style="display:flex; align-items:left;">
   <img src="./assets/img/IUT.png" alt="" style="width:50px; height:50px; margin-right:10px;">
   <div style="font-size: 90%;">
-    <a href="https://english.iut.ac.ir/" target="_blank"><strong>Isfahan University of Technology</strong></a><br>
+    <strong><a href="https://english.iut.ac.ir/" target="_blank">Isfahan University of Technology</a></strong><br>
     B.Sc. in Electrical and Electronics Engineering (Control)<br>
     2020 - 2025<br>
     <ul style="padding-left: 1em; margin-left: 0; list-style-position: outside;">
