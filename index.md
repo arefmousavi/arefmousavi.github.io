@@ -31,7 +31,7 @@ layout: default
     B.Sc. in Electrical and Electronics Engineering (Control)<br>
     2020 - 2025<br>
     <ul style="padding-left: 1em; margin-left: 0; list-style-position: outside;">
-      <li>Additionally, <strong>completed core CE coursework</strong> through selective and independent study</li>
+      <li>Additionally, <strong>completed core Computer Engineering coursework</strong> through selective and independent study</li>
       <li>Achieved a <strong>perfect score</strong> (20/20) in <strong>over 16 specialized courses</strong> in both EE & CE</li>
       <li>B.Sc. project: 'Efficient and Vivid Image Colorization via Spectrally-Normalized GAN'</li>
     </ul>
@@ -57,7 +57,7 @@ layout: default
         <strong>Robotics</strong><br>
         Feb 2025 - Jul 2025 · 6 mos<br>
         Instructed by Dr. Hamed Jalaly
-      </li><br>
+      </li>
     </ul>
   </div>
 </div><br>
@@ -65,7 +65,7 @@ layout: default
 ## Publications
 
 ## Awards & Honors
-- Ranked 2th nationwide among ~18,000 participants in the 2025 M.Sc. Entrance Exam (Konkor) in Computer Engineering
+- Ranked **2nd nationwide** among ~18,000 participants in the 2025 M.Sc. Entrance Exam (Konkor) in **Computer Engineering**
 
 
 ## CV
