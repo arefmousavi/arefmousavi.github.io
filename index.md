@@ -2,120 +2,65 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+## Table of Contents
+- [About Me](#about-me)
+- [Education](#education)
+- [Research Interests](#research-interests)
+- [Experience](#experience)
+- [Publications](#publications)
+- [Awards & Honors](#awards--honors)
+- [CV](#cv)
 
-There should be whitespace between paragraphs.
+## About Me
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+## Education
 
-# Header 1
+<div style="display:flex; align-items:left;">
+  <img src="./assets/img/SUT.jpg" alt="" style="width:70px; height:70px; border-radius:50% margin-right:10px;">
+  <div>
+    <strong>Sharif University of Technology</strong><br>
+    M.Sc. in Computer Engineering (Artificial Intelligence)<br>
+    2025<br>
+  </div>
+</div><br>
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+<div style="display:flex; align-items:left;">
+  <img src="./assets/img/IUT.jpg" alt="" style="width:70px; height:70px; border-radius:50%; margin-right:10px;">
+  <div>
+    <strong>Isfahan University of Technology</strong><br>
+    B.Sc. in Electrical and Electronics Engineering (Control)<br>
+    2020 - 2025<br>
+    • Additionally, completed core Computer Engineering coursework through selective and independent study<br>
+    • Achieved a perfect score (20/20) in over 16 specialized courses in both EE & CE<br>
+    • My B.Sc. project was 'Efficient and Vivid Image Colorization via Spectrally-Normalized GAN'<br>
+  </div>
+</div>
 
-## Header 2
+## Research Interests
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+## Experience
+<div style="display:flex; align-items:left;">
+  <img src="./assets/img/IUT.jpg" alt="" style="width:70px; height:70px; border-radius:50%; margin-right:10px;">
+  <div>
+    <strong>Isfahan University of Technology</strong><br><br>
+    <strong>• Teaching Assistant (Machine Learning)</strong><br>
+    &ensp;&ensp;Feb 2025 - Jul 2025 · 6 mos<br>
+    &ensp;&ensp;Instructed by Dr. Mehran Safayani<br><br>
+    <strong>• Teaching Assistant (Robotics)</strong><br>
+    &ensp;&ensp;Feb 2025 - Jul 2025 · 6 mos<br>
+    &ensp;&ensp;Instructed by Dr. Hamed Jalaly
+  </div>
+</div>
 
-### Header 3
+## Publications
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+## Awards & Honors
+- Ranked 2th nationwide among ~18,000 participants in the 2025 M.Sc. Entrance Exam (Konkor) in Computer Engineering
 
 
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
-
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
-
-```
-The final element.
-```
+## CV
+<a href="CV_download_link" target="_blank"
+   style="display:inline-block; background-color:#4CAF50; color:white;
+          padding:0.5em 1em; text-decoration:none; border-radius:0.3em; font-size:1em;">
+  Download CV
+</a>
