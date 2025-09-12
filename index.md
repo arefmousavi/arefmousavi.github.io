@@ -88,7 +88,7 @@ Performing targeted FGSM, PGD, and C&W attacks on images to manipulate the outpu
 
 ![QuadraArm Thumbnail](./assets/img/projects/QuadraArm.jpg)
 <strong><a href="https://github.com/aref-mousavi-eng/QuadraArm" target="_blank">QuadraArm: A 4-DOF Robotic Arm Platform from Hardware to Motion Planning</a></strong>  
-An implementation of a **complete control framework** for a 4-DOF (Degrees of Freedom) robotic arm, encompassing hardware analysis, forward and inverse kinematics, velocity kinematics, trajectory planning, and motion imitation via demonstration.
+An implementation of a **comprehensive control framework** for a 4-DOF (Degrees of Freedom) robotic arm, encompassing hardware analysis, forward and inverse kinematics, velocity kinematics, trajectory planning, and motion imitation via demonstration.
 <br><br>
 
 
