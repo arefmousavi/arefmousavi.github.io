@@ -316,15 +316,16 @@ footer {
 
 //====================================== my code ======================================
 
-// sidebar description
-.sidebar p {
-  font-size: 13px;
-  line-height: 1.4;
-}
+
 
 // sidebar name 
-.sidebar h1 {
+.sidebar h1 a {
   font-size: 29px; 
+}
+
+// sidebar description
+.sidebar a {
+  font-size: 14px;
 }
 
 .icon {
