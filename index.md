@@ -21,23 +21,24 @@ Previously, I conducted research in computer vision at Isfahan University of Tec
 ## Education
 <div style="display:flex; align-items:left;">
   <img src="./assets/img/SUT.png" alt="" style="width:50px; height:50px; margin-right:10px;">
-  <div style="font-size: 92%;">
+  <div style="font-size: 95%;">
     <strong><a href="https://en.sharif.ir/" target="_blank">Sharif University of Technology</a></strong><br>
     M.Sc. in Computer Engineering (Artificial Intelligence)<br>
-    2025 - present<br>
+    <span style="opacity:0.6;">2025 - present</span><br>
   </div>
 </div><br>
 
 <div style="display:flex; align-items:left;">
   <img src="./assets/img/IUT.png" alt="" style="width:50px; height:50px; margin-right:10px;">
-  <div style="font-size: 92%;">
+  <div style="font-size: 95%;">
     <strong><a href="https://english.iut.ac.ir/" target="_blank">Isfahan University of Technology</a></strong><br>
     B.Sc. in Electrical and Electronics Engineering (Control)<br>
-    2020 - 2025<br>
+    <span style="opacity:0.6;">2020 - 2025</span><br>
+    Grade: 18.58/20<br>
     <ul style="padding-left: 1em; margin-left: 0; list-style-position: outside; margin-bottom: 0;">
       <li>Additionally, <strong>completed core Computer Engineering coursework</strong> through selective and independent study</li>
-      <li>Achieved a <strong>perfect score</strong> (20/20) in <strong>over 16 specialized courses</strong> in both EE & CE</li>
-      <li>B.Sc. project: 'Efficient and Vivid Image Colorization via Spectrally-Normalized GAN'</li>
+      <li>Achieved a <strong>perfect score</strong> (20/20) in <strong> 16 specialized courses</strong> in both EE & CE</li>
+      <li>B.Sc. project: <em>Efficient and Vivid Image Colorization via Spectrally-Normalized GAN</em></li>
     </ul>
   </div>
 </div><br>
@@ -46,7 +47,7 @@ Previously, I conducted research in computer vision at Isfahan University of Tec
 ## Research Interests
 <ul style="padding-left: 1em; margin-left: 0; list-style-position: outside; margin-bottom: 0;">
   <li>Robust Machine Learning (Computer Vision & NLP)</li>
-  <li>Image Processing</li>
+  <li>Efficient Deep Learning</li>
   <li>Intelligent Robotics</li>
 </ul><br>
 
@@ -54,18 +55,18 @@ Previously, I conducted research in computer vision at Isfahan University of Tec
 ## Experience
 <div style="display:flex; align-items:left;">
   <img src="./assets/img/IUT.png" alt="" style="width:50px; height:50px; margin-right:10px;">
-  <div style="font-size: 92%;">
+  <div style="font-size: 95%;">
     <strong>Teaching Assistant</strong><br>
     <a href="https://english.iut.ac.ir/" target="_blank">Isfahan University of Technology</a><br>
     <ul style="padding-left: 1em; margin-left: 0; list-style-position: outside; margin-bottom: 0;">
       <li>
         <strong>Machine Learning</strong><br>
-        Feb 2025 - Jul 2025 · 6 mos<br>
+        <span style="opacity:0.6;">Feb 2025 - Jul 2025 · 6 mos</span><br>
         Instructed by Prof. Mehran Safayani<br>
       </li>
       <li>
         <strong>Robotics</strong><br>
-        Feb 2025 - Jul 2025 · 6 mos<br>
+        <span style="opacity:0.6;">Feb 2025 - Jul 2025 · 6 mos</span><br>
         Instructed by Prof. Hamed Jalaly
       </li>
     </ul>
