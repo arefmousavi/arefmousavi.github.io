@@ -96,7 +96,7 @@ Performing targeted FGSM, PGD, and C&W attacks on images to manipulate the outpu
 ## Awards & Honors
 <ul style="padding-left: 1em; margin-left: 0; list-style-position: outside; margin-bottom: 0;">
   <li>Ranked <strong>2nd nationwide</strong> among +15,000 participants in the 2025 M.Sc. Entrance Exam (Konkor) in <strong>Computer Engineering</strong></li>
-  <li>Graduated in the <strong>top 3–5%</strong> of 146 B.Sc. students at Isfahan University of Technology</li>
+  <li>Graduated in the <strong>top 3–5%</strong> of B.Sc. students at Isfahan University of Technology</li>
   <li>Ranked <strong>2nd</strong> in the <strong>RoboCup Asia-Pacific</strong> 2018 competition during high school</li>
 </ul><br>
 
