@@ -35,7 +35,7 @@ Previously, I conducted research in computer vision at Isfahan University of Tec
     <strong><a href="https://english.iut.ac.ir/" target="_blank">Isfahan University of Technology</a></strong><br>
     B.Sc. in Electrical and Electronics Engineering (Control)<br>
     <span style="opacity:0.6;">2020 - 2025</span><br>
-    Grade: 18.58/20<br>
+    GPA: 18.58/20 (final-year GPA: 19.75/20)<br>
     <ul style="padding-left: 1em; margin-left: 0; list-style-position: outside; margin-bottom: 0;">
       <li>Additionally, <strong>completed core Computer Engineering coursework</strong> through selective and independent study</li>
       <li>Achieved a <strong>perfect score</strong> (20/20) in <strong> 16 specialized courses</strong> in both EE & CE</li>
@@ -47,8 +47,9 @@ Previously, I conducted research in computer vision at Isfahan University of Tec
 
 ## Research Interests
 <ul style="padding-left: 1em; margin-left: 0; list-style-position: outside; margin-bottom: 0;">
-  <li>Robust Machine Learning (Computer Vision & NLP)</li>
-  <li>Efficient Deep Learning</li>
+  <li>Machine Learning Trustworthiness</li>
+  <li>Adversarial Robustness and transferability</li>
+  <li>Speech and vision foundation models</li>
   <li>Intelligent Robotics</li>
 </ul><br>
 
@@ -96,8 +97,8 @@ Performing targeted FGSM, PGD, and C&W attacks on images to manipulate the outpu
 
 ## Awards & Honors
 <ul style="padding-left: 1em; margin-left: 0; list-style-position: outside; margin-bottom: 0;">
-  <li>Ranked <strong>2nd nationwide</strong> among +15,000 participants in the 2025 M.Sc. Entrance Exam (Konkor) in <strong>Computer Engineering</strong></li>
-  <li>Graduated in the <strong>top 3–5%</strong> of B.Sc. students at Isfahan University of Technology</li>
+  <li>Ranked <strong>2nd nationwide</strong> among 17,000+ participants in the 2025 M.Sc. Entrance Exam (Konkur) in <strong>Computer Engineering</strong></li>
+  <li>Graduated in the <strong>top 3%</strong> of B.Sc. students at Isfahan University of Technology</li>
   <li>Ranked <strong>2nd</strong> in the <strong>RoboCup Asia-Pacific</strong> 2018 competition during high school</li>
 </ul><br>
 
