@@ -88,7 +88,7 @@ I also work directly with <a href="https://scholar.google.com/citations?hl=en&us
 <img src="./assets/img/publications/transferbreaker_overview.jpg" alt="TransferBreaker overview" style="width:100%; height:auto; margin:0 0 8px 0;">
 <strong><a href="https://arxiv.org/abs/2610.09109" target="_blank">Breaking Adversarial Transferability in Fine-Tuned Speech Recognition</a></strong><br>
 <div style="margin:0; line-height:1.35;">Mojtaba Nafez*, <strong>Aref Mousavi*</strong>, Mohammad Ebrahim Mahdavi, Mobina Poulaei, Kiarash Kiani Feriz, Mohammad Hossein Rohban.</div>
-<div style="font-size:1.10em; font-weight:700; color:#ffffff; margin:-3px 0 2px 0; line-height:1.15;"><em>NeurIPS 2026</em> <span style="font-size:0.88em; font-weight:400; color:#999999;">(* equal contribution)</span></div>
+<div style="font-size:1.10em; font-weight:700; color:#ffffff; margin:-1px 0 2px 0; line-height:1.15;"><em>NeurIPS 2026</em> <span style="font-size:0.88em; font-weight:400; color:#999999;">(* equal contribution)</span></div>
 <a href="https://arxiv.org/abs/2610.09109" target="_blank">[Paper]</a>
 <a href="https://github.com/rohban-lab/TransferBreaker" target="_blank">[Code]</a>
 <br><br>
@@ -96,7 +96,7 @@ I also work directly with <a href="https://scholar.google.com/citations?hl=en&us
 <img src="./assets/img/publications/ghostword.jpg" alt="GhostWord overview" style="width:100%; height:auto; margin:0 0 8px 0;">
 <strong><a href="https://openreview.net/pdf?id=vngoPfQCJf" target="_blank">GhostWord: A Fine-Grained Backdoor Attack on Automatic Speech Recognition</a></strong><br>
 <div style="margin:0; line-height:1.35;">Mojtaba Nafez, Mobina Poulaei, Kiarash Kiani Feriz, <strong>Aref Mousavi</strong>, Mohammad Ebrahim Mahdavi, Mohammad Hossein Rohban.</div>
-<div style="font-size:1.10em; font-weight:700; color:#ffffff; margin:-3px 0 2px 0; line-height:1.15;"><em>TMLR</em></div>
+<div style="font-size:1.10em; font-weight:700; color:#ffffff; margin:-1px 0 2px 0; line-height:1.15;"><em>TMLR</em></div>
 <a href="https://openreview.net/pdf?id=vngoPfQCJf" target="_blank">[Paper]</a>
 <a href="https://github.com/rohban-lab/GhostWord" target="_blank">[Code]</a>
 <br><br>
@@ -104,7 +104,7 @@ I also work directly with <a href="https://scholar.google.com/citations?hl=en&us
 <img src="./assets/img/publications/hierarchical_overview.jpg" alt="Hierarchical Stabilization overview" style="width:100%; height:auto; margin:0 0 8px 0;">
 <strong><a href="https://arxiv.org/abs/2610.05310" target="_blank">Transferable Adversarial Robustness for Speech Foundation Models via Hierarchical Stabilization</a></strong><br>
 <div style="margin:0; line-height:1.35;"><strong>Aref Mousavi</strong>, Shahab Sherafat, Kiarash Kiani Feriz, Amirparsa Safari, Raoof Zare Moayedi, Mohammad Hossein Rohban, Mohammad Sabokrou.</div>
-<div style="font-size:1.10em; font-weight:700; color:#ffffff; margin:-3px 0 2px 0; line-height:1.15;"><em>Submitted to ICASSP 2027</em></div>
+<div style="font-size:1.10em; font-weight:700; color:#ffffff; margin:-1px 0 2px 0; line-height:1.15;"><em>Submitted to ICASSP 2027</em></div>
 <a href="https://arxiv.org/abs/2610.05310" target="_blank">[Paper]</a>
 <a href="https://github.com/arefmousavi/hierarchical-robust-sfm" target="_blank">[Code]</a>
 <br><br>
