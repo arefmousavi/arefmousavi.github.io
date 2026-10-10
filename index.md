@@ -5,109 +5,150 @@ title: Aref Mousavi
 
 ## Table of Contents
 - [About Me](#about-me)
-- [Education](#education)
 - [Research Interests](#research-interests)
-- [Experience](#experience)
+- [Education](#education)
+- [Research Experience](#research-experience)
 - [Publications](#publications)
-- [Projects](#projects)
+- [Teaching Experience](#teaching-experience)
+- [Selected Projects](#selected-projects)
 - [Awards & Honors](#awards--honors)
-- [CV](#cv)
 <br><br>
 
 ## About Me
-Currently, I am a Master’s student in Computer Engineering (Artificial Intelligence) at Sharif University of Technology, supervised by <a href="https://scholar.google.com/citations?user=pRyJ6FkAAAAJ&hl=en" target="_blank">Prof. MohammadHossein Rohban</a> at the <a href="https://www.linkedin.com/company/robust-and-interpretable-machine-learning-lab/" target="_blank">RIML Lab</a>.  
-Previously, I conducted research in computer vision at Isfahan University of Technology under the supervision of <a href="https://scholar.google.com/citations?user=0TmalsgAAAAJ&hl=en" target="_blank">Prof. MohammadReza Ahmadzadeh</a>.
+I am an M.Sc. student in Computer Engineering (Artificial Intelligence) and a graduate researcher at the <a href="https://www.linkedin.com/company/robust-and-interpretable-machine-learning-lab/" target="_blank">Robust and Interpretable Machine Learning (RIML) Lab</a> at <a href="https://en.sharif.ir/" target="_blank">Sharif University of Technology</a>, under the supervision of <a href="https://scholar.google.com/citations?user=pRyJ6FkAAAAJ&hl=en" target="_blank">Prof. Mohammad Hossein Rohban</a>. My research focuses on trustworthy machine learning, particularly adversarial robustness, speech foundation models, and representation learning.
+
+I also work directly with <a href="https://scholar.google.com/citations?hl=en&user=jqHXvT0AAAAJ" target="_blank">Prof. Mohammad Sabokrou</a> as a researcher in his team, focusing on adversarial robustness and representation learning for speech foundation models. Previously, I received my B.Sc. in Electrical Engineering (Control) from <a href="https://english.iut.ac.ir/" target="_blank">Isfahan University of Technology</a>, where I conducted research under the supervision of <a href="https://scholar.google.com/citations?user=0TmalsgAAAAJ&hl=en" target="_blank">Prof. Mohammad Reza Ahmadzadeh</a>.
+<br><br>
+
+## Research Interests
+- **Trustworthy machine learning:** adversarial robustness, backdoors, and model security
+- **Speech foundation models:** adaptation and downstream specialization
+- **Representation learning:** generalizable and transferable representations
 <br><br>
 
 ## Education
-<div style="display:flex; align-items:left;">
+<div style="display:flex; align-items:flex-start;">
   <img src="./assets/img/SUT.png" alt="" style="width:50px; height:50px; margin-right:10px;">
   <div>
     <strong><a href="https://en.sharif.ir/" target="_blank">Sharif University of Technology</a></strong><br>
     M.Sc. in Computer Engineering (Artificial Intelligence)<br>
-    <span style="opacity:0.6;">2025 - present</span><br>
+    <span style="opacity:0.6;">Sep 2025 - Present</span><br>
+    Supervisor: <a href="https://scholar.google.com/citations?user=pRyJ6FkAAAAJ&hl=en" target="_blank">Prof. Mohammad Hossein Rohban</a><br>
+    GPA: 20.0/20.0 — <strong>Ranked 1st in the M.Sc. program</strong>
   </div>
 </div><br>
 
-<div style="display:flex; align-items:left;">
+<div style="display:flex; align-items:flex-start;">
   <img src="./assets/img/IUT.png" alt="" style="width:50px; height:50px; margin-right:10px;">
   <div>
     <strong><a href="https://english.iut.ac.ir/" target="_blank">Isfahan University of Technology</a></strong><br>
-    B.Sc. in Electrical and Electronics Engineering (Control)<br>
-    <span style="opacity:0.6;">2020 - 2025</span><br>
-    GPA: 18.58/20 (final-year GPA: 19.75/20)<br>
+    B.Sc. in Electrical Engineering (Control)<br>
+    <span style="opacity:0.6;">Jul 2025</span><br>
+    Supervisor: <a href="https://scholar.google.com/citations?user=0TmalsgAAAAJ&hl=en" target="_blank">Prof. Mohammad Reza Ahmadzadeh</a><br>
+    GPA: 18.58/20.0 (19.75/20.0 over the last two semesters) — <strong>Top 5% of B.Sc. graduates</strong><br>
+    Additionally, completed core Computer Engineering coursework.
+  </div>
+</div><br>
+
+## Research Experience
+<div style="display:flex; align-items:flex-start;">
+  <img src="./assets/img/SUT.png" alt="" style="width:50px; height:50px; margin-right:10px;">
+  <div>
+    <strong>Graduate Researcher</strong><br>
+    <a href="https://www.linkedin.com/company/robust-and-interpretable-machine-learning-lab/" target="_blank">Robust and Interpretable Machine Learning (RIML) Lab</a>,
+    <a href="https://en.sharif.ir/" target="_blank">Sharif University of Technology</a><br>
+    <span style="opacity:0.6;">Sep 2025 - Present</span><br>
     <ul style="padding-left: 1em; margin-left: 0; list-style-position: outside; margin-bottom: 0;">
-      <li>Additionally, <strong>completed core Computer Engineering coursework</strong> through selective and independent study</li>
-      <li>Achieved a <strong>perfect score</strong> (20/20) in <strong> 16 specialized courses</strong> in both EE & CE</li>
-      <li>B.Sc. project: <em>Efficient and Vivid Image Colorization via Spectrally-Normalized GAN</em></li>
+      <li>
+        Researching adversarial robustness, representation learning, and backdoor vulnerabilities in speech foundation models under the supervision of
+        <a href="https://scholar.google.com/citations?user=pRyJ6FkAAAAJ&hl=en" target="_blank">Prof. Mohammad Hossein Rohban</a>,
+        and collaborating closely with Mojtaba Nafez (Idiap Research Institute; Ph.D. student, EPFL).
+      </li>
+      <li>
+        Work includes <em>TransferBreaker</em> (<em>NeurIPS 2026, co-first author</em>) and <em>GhostWord</em> (<em>TMLR</em>).
+      </li>
     </ul>
   </div>
 </div><br>
 
+<div style="margin-left:60px;">
+  <strong>Researcher</strong><br>
+  <a href="https://scholar.google.com/citations?hl=en&user=jqHXvT0AAAAJ" target="_blank">Prof. Mohammad Sabokrou</a>'s Research Team
+  (NUU; Visiting Researcher, OIST)<br>
+  <span style="opacity:0.6;">Jun 2026 - Present</span><br>
+  <ul style="padding-left: 1em; margin-left: 0; list-style-position: outside; margin-bottom: 6px;">
+    <li>
+      Working directly with Prof. Mohammad Sabokrou on adversarial robustness and representation learning for speech foundation models.
+    </li>
+  </ul>
+  <strong>Joint Research:</strong> Led two jointly supervised research projects with Profs. Mohammad Hossein Rohban and Mohammad Sabokrou, resulting in first-author submissions to <em>ICASSP 2027</em> and <em>ICLR 2027</em>.
+</div><br>
 
-## Research Interests
-<ul style="padding-left: 1em; margin-left: 0; list-style-position: outside; margin-bottom: 0;">
-  <li>Machine Learning Trustworthiness</li>
-  <li>Adversarial Robustness and transferability</li>
-  <li>Speech and vision foundation models</li>
-  <li>Intelligent Robotics</li>
-</ul><br>
+## Publications
+<img src="./assets/img/publications/transferbreaker_overview.jpg" alt="TransferBreaker overview" style="width:100%; height:auto; margin:0 0 8px 0;">
+<strong><a href="https://arxiv.org/abs/2610.09109" target="_blank">Breaking Adversarial Transferability in Fine-Tuned Speech Recognition</a></strong><br>
+Mojtaba Nafez*, <strong>Aref Mousavi*</strong>, Mohammad Ebrahim Mahdavi, Mobina Poulaei, Kiarash Kiani Feriz, Mohammad Hossein Rohban.<br>
+<div style="font-size:1.10em; font-weight:700; color:#ffffff; margin:3px 0 2px 0;"><em>NeurIPS 2026</em> <span style="font-size:0.88em; font-weight:400; color:#999999;">(* equal contribution)</span></div>
+<a href="https://arxiv.org/abs/2610.09109" target="_blank">[Paper]</a>
+<a href="https://github.com/rohban-lab/TransferBreaker" target="_blank">[Code]</a>
+<br><br>
 
+<img src="./assets/img/publications/ghostword.jpg" alt="GhostWord overview" style="width:100%; height:auto; margin:0 0 8px 0;">
+<strong><a href="https://openreview.net/pdf?id=vngoPfQCJf" target="_blank">GhostWord: A Fine-Grained Backdoor Attack on Automatic Speech Recognition</a></strong><br>
+Mojtaba Nafez, Mobina Poulaei, Kiarash Kiani Feriz, <strong>Aref Mousavi</strong>, Mohammad Ebrahim Mahdavi, Mohammad Hossein Rohban.<br>
+<div style="font-size:1.10em; font-weight:700; color:#ffffff; margin:3px 0 2px 0;"><em>TMLR</em></div>
+<a href="https://openreview.net/pdf?id=vngoPfQCJf" target="_blank">[Paper]</a>
+<a href="https://github.com/rohban-lab/GhostWord" target="_blank">[Code]</a>
+<br><br>
 
-## Experience
-<div style="display:flex; align-items:left;">
+<img src="./assets/img/publications/hierarchical_overview.jpg" alt="Hierarchical Stabilization overview" style="width:100%; height:auto; margin:0 0 8px 0;">
+<strong><a href="https://arxiv.org/abs/2610.05310" target="_blank">Transferable Adversarial Robustness for Speech Foundation Models via Hierarchical Stabilization</a></strong><br>
+<strong>Aref Mousavi</strong>, Shahab Sherafat, Kiarash Kiani Feriz, Amirparsa Safari, Raoof Zare Moayedi, Mohammad Hossein Rohban, Mohammad Sabokrou.<br>
+<div style="font-size:1.10em; font-weight:700; color:#ffffff; margin:3px 0 2px 0;"><em>Submitted to ICASSP 2027</em></div>
+<a href="https://arxiv.org/abs/2610.05310" target="_blank">[Paper]</a>
+<a href="https://github.com/arefmousavi/hierarchical-robust-sfm" target="_blank">[Code]</a>
+<br><br>
+<h2 id="teaching-experience">Teaching Experience</h2>
+
+<div style="display:flex; align-items:flex-start;">
+  <img src="./assets/img/SUT.png" alt="" style="width:50px; height:50px; margin-right:10px;">
+  <div>
+    <strong>Teaching Assistant — Deep Learning</strong><br>
+    <a href="https://en.sharif.ir/" target="_blank">Sharif University of Technology</a><br>
+    <span style="opacity:0.6;">Sep 2026 - Present</span><br>
+    Instructor: Prof. Mahdieh Soleymani
+  </div>
+</div><br>
+
+<div style="display:flex; align-items:flex-start;">
   <img src="./assets/img/IUT.png" alt="" style="width:50px; height:50px; margin-right:10px;">
   <div>
     <strong>Teaching Assistant</strong><br>
     <a href="https://english.iut.ac.ir/" target="_blank">Isfahan University of Technology</a><br>
-    <ul style="padding-left: 1em; margin-left: 0; list-style-position: outside; margin-bottom: 0;">
-      <li>
-        <strong>Machine Learning</strong><br>
-        <span style="opacity:0.6;">Feb 2025 - Jul 2025 · 6 mos</span><br>
-        Instructed by Prof. Mehran Safayani<br>
-      </li>
-      <li>
-        <strong>Robotics</strong><br>
-        <span style="opacity:0.6;">Feb 2025 - Jul 2025 · 6 mos</span><br>
-        Instructed by Prof. Hamed Jalaly
-      </li>
-    </ul>
+    <span style="opacity:0.6;">Feb 2025 - Jul 2025</span><br>
+    <strong>Machine Learning</strong> — Instructor: Prof. Mehran Safayani<br>
+    Designed and graded assignments, led problem-solving sessions, and evaluated final course projects.<br><br>
+    <strong>Robotics</strong> — Instructor: Prof. Hamed Jalaly<br>
+    Led problem-solving sessions, answered student questions, and graded assignments.
   </div>
 </div><br>
 
-
-## Publications
-Comming soon!
-<br><br>
-
-## Projects
-![EffiColorizer Thumbnail](./assets/img/projects/EffiColorizer.jpg)
-<strong><a href="https://github.com/arefmousavi/EffiColorizer" target="_blank">EffiColorizer: An Efficient Image Colorization Framework for Low-Power Devices</a></strong>  
-An efficient and accurate model for vivid and real-time colorization, utilizing a Spectrally-Normalized GAN with an EfficientNet-B3 encoder integrated into a U-Net generator, along with a novel hybrid training strategy, achieving **2.4× improvement in FID** while requiring approximately **10.8× fewer FLOPs** compared to the baseline. 
-
-![QuadraArm Thumbnail](./assets/img/projects/QuadraArm.jpg)
-<strong><a href="https://github.com/arefmousavi/QuadraArm" target="_blank">QuadraArm: A 4-DOF Robotic Arm Platform from Hardware to Motion Planning</a></strong>  
-An implementation of a **comprehensive control framework** for a 4-DOF (Degrees of Freedom) robotic arm, encompassing hardware analysis, forward and inverse kinematics, velocity kinematics, trajectory planning, and motion imitation via demonstration.  
+## Selected Projects
 
 ![VLM-Adversarial-Attack Thumbnail](./assets/img/projects/VLM-Adversarial-Attack.jpg)
 <strong><a href="https://github.com/arefmousavi/VLM-Adversarial-Attack" target="_blank">Exploring Adversarial Vulnerability of Vision-Language Models (VLMs)</a></strong>  
-Performing targeted FGSM, PGD, and C&W attacks on images to manipulate the outputs of the BLIP image-to-caption model and generate predefined captions, leveraging momentum and hierarchical optimization to enhance performance, achieving **47.72 dB PSNR at 8-bit** resolution.
+Performed targeted FGSM, momentum PGD, and C&W attacks on images to manipulate the outputs of the BLIP image-to-caption model toward predefined captions, using random initialization, learning-rate decay, and hierarchical PGD-to-C&W initialization to improve attack performance while preserving visual quality.
+
+![EffiColorizer Thumbnail](./assets/img/projects/EffiColorizer.jpg)
+<strong><a href="https://github.com/arefmousavi/EffiColorizer" target="_blank">EffiColorizer: An Efficient Image Colorization Framework for Low-Power Devices</a></strong>  
+Developed an efficient image colorization framework using a spectrally normalized GAN with an EfficientNet-B3 encoder integrated into a U-Net generator and a hybrid training strategy, achieving a **2.4× improvement in FID** while requiring approximately **10.8× fewer FLOPs** than the baseline.
+
+![QuadraArm Thumbnail](./assets/img/projects/QuadraArm.jpg)
+<strong><a href="https://github.com/arefmousavi/QuadraArm" target="_blank">QuadraArm: A 4-DOF Robotic Arm Platform from Hardware Design to Motion Planning</a></strong>  
+Developed a complete 4-DOF robotic arm platform spanning hardware design and analysis, forward and inverse kinematics, velocity kinematics, trajectory planning, and motion imitation via demonstration.
 <br><br>
 
-
 ## Awards & Honors
-<ul style="padding-left: 1em; margin-left: 0; list-style-position: outside; margin-bottom: 0;">
-  <li>Ranked <strong>2nd nationwide</strong> among 17,000+ participants in the 2025 M.Sc. Entrance Exam (Konkur) in <strong>Computer Engineering</strong></li>
-  <li>Graduated in the <strong>top 3%</strong> of B.Sc. students at Isfahan University of Technology</li>
-  <li>Ranked <strong>2nd</strong> in the <strong>RoboCup Asia-Pacific</strong> 2018 competition during high school</li>
-</ul><br>
-
-
-## CV
-Download my latest CV using the link below:  
-  
-<a href="CV_download_link" target="_blank"
-   style="display:inline-block; background-color:#4CAF50; color:white;
-          padding:0.5em 1em; text-decoration:none; border-radius:0.3em; font-size:1em;">
-  Download CV
-</a>
+- **Ranked 2nd nationwide** among 17,000+ participants in the 2025 Iranian M.Sc. Entrance Exam (Konkur) in Computer Engineering.
+- **Ranked 7th nationwide** in the 2025 Iranian Computer Engineering Student Olympiad.
+<br><br>
