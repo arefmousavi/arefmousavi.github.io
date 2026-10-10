@@ -85,26 +85,26 @@ I also work directly with <a href="https://scholar.google.com/citations?hl=en&us
 </div><br>
 
 ## Publications
-<img src="./assets/img/publications/transferbreaker_overview.jpg" alt="TransferBreaker overview" style="width:100%; height:auto; margin:0 0 8px 0;">
+<img src="./assets/img/publications/transferbreaker_overview.jpg" alt="TransferBreaker overview" style="width:100%; height:auto; margin:0 0 8px 0; opacity:0.90;">
 <strong><a href="https://arxiv.org/abs/2610.09109" target="_blank">Breaking Adversarial Transferability in Fine-Tuned Speech Recognition</a></strong><br>
 <div style="margin:0; line-height:1.35;">Mojtaba Nafez*, <strong>Aref Mousavi*</strong>, Mohammad Ebrahim Mahdavi, Mobina Poulaei, Kiarash Kiani Feriz, Mohammad Hossein Rohban.</div>
-<div style="font-size:1.10em; font-weight:700; color:#ffffff; margin:4px 0 2px 0; line-height:1.15;"><em>NeurIPS 2026</em> <span style="font-size:0.88em; font-weight:400; color:#999999;">(* equal contribution)</span></div>
+<div style="font-size:1.10em; font-weight:700; color:#ffffff; margin:6px 0 2px 0; line-height:1.15;"><em>NeurIPS 2026</em> <span style="font-size:0.88em; font-weight:400; color:#999999;">(* equal contribution)</span></div>
 <a href="https://arxiv.org/abs/2610.09109" target="_blank">[Paper]</a>
 <a href="https://github.com/rohban-lab/TransferBreaker" target="_blank">[Code]</a>
 <br><br>
 
-<img src="./assets/img/publications/ghostword.jpg" alt="GhostWord overview" style="width:100%; height:auto; margin:0 0 8px 0;">
+<img src="./assets/img/publications/ghostword.jpg" alt="GhostWord overview" style="width:100%; height:auto; margin:0 0 8px 0; opacity:0.90;">
 <strong><a href="https://openreview.net/pdf?id=vngoPfQCJf" target="_blank">GhostWord: A Fine-Grained Backdoor Attack on Automatic Speech Recognition</a></strong><br>
 <div style="margin:0; line-height:1.35;">Mojtaba Nafez, Mobina Poulaei, Kiarash Kiani Feriz, <strong>Aref Mousavi</strong>, Mohammad Ebrahim Mahdavi, Mohammad Hossein Rohban.</div>
-<div style="font-size:1.10em; font-weight:700; color:#ffffff; margin:4px 0 2px 0; line-height:1.15;"><em>TMLR</em></div>
+<div style="font-size:1.10em; font-weight:700; color:#ffffff; margin:6px 0 2px 0; line-height:1.15;"><em>TMLR</em></div>
 <a href="https://openreview.net/pdf?id=vngoPfQCJf" target="_blank">[Paper]</a>
 <a href="https://github.com/rohban-lab/GhostWord" target="_blank">[Code]</a>
 <br><br>
 
-<img src="./assets/img/publications/hierarchical_overview.jpg" alt="Hierarchical Stabilization overview" style="width:100%; height:auto; margin:0 0 8px 0;">
+<img src="./assets/img/publications/hierarchical_overview.jpg" alt="Hierarchical Stabilization overview" style="width:100%; height:auto; margin:0 0 8px 0; opacity:0.90;">
 <strong><a href="https://arxiv.org/abs/2610.05310" target="_blank">Transferable Adversarial Robustness for Speech Foundation Models via Hierarchical Stabilization</a></strong><br>
 <div style="margin:0; line-height:1.35;"><strong>Aref Mousavi</strong>, Shahab Sherafat, Kiarash Kiani Feriz, Amirparsa Safari, Raoof Zare Moayedi, Mohammad Hossein Rohban, Mohammad Sabokrou.</div>
-<div style="font-size:1.10em; font-weight:700; color:#ffffff; margin:4px 0 2px 0; line-height:1.15;"><em>Submitted to ICASSP 2027</em></div>
+<div style="font-size:1.10em; font-weight:700; color:#ffffff; margin:6px 0 2px 0; line-height:1.15;"><em>Submitted to ICASSP 2027</em></div>
 <a href="https://arxiv.org/abs/2610.05310" target="_blank">[Paper]</a>
 <a href="https://github.com/arefmousavi/hierarchical-robust-sfm" target="_blank">[Code]</a>
 <br><br>
@@ -135,15 +135,15 @@ I also work directly with <a href="https://scholar.google.com/citations?hl=en&us
 
 ## Selected Projects
 
-![VLM-Adversarial-Attack Thumbnail](./assets/img/projects/VLM-Adversarial-Attack.jpg)
+<img src="./assets/img/projects/VLM-Adversarial-Attack.jpg" alt="VLM-Adversarial-Attack Thumbnail" style="width:100%; height:auto; opacity:0.90;">
 <strong><a href="https://github.com/arefmousavi/VLM-Adversarial-Attack" target="_blank">Exploring Adversarial Vulnerability of Vision-Language Models (VLMs)</a></strong>  
 Performed targeted FGSM, momentum PGD, and C&W attacks on images to manipulate the outputs of the BLIP image-to-caption model toward predefined captions, using random initialization, learning-rate decay, and hierarchical PGD-to-C&W initialization to improve attack performance while preserving visual quality.
 
-![EffiColorizer Thumbnail](./assets/img/projects/EffiColorizer.jpg)
+<img src="./assets/img/projects/EffiColorizer.jpg" alt="EffiColorizer Thumbnail" style="width:100%; height:auto; opacity:0.90;">
 <strong><a href="https://github.com/arefmousavi/EffiColorizer" target="_blank">EffiColorizer: An Efficient Image Colorization Framework for Low-Power Devices</a></strong>  
 Developed an efficient image colorization framework using a spectrally normalized GAN with an EfficientNet-B3 encoder integrated into a U-Net generator and a hybrid training strategy, achieving a **2.4× improvement in FID** while requiring approximately **10.8× fewer FLOPs** than the baseline.
 
-![QuadraArm Thumbnail](./assets/img/projects/QuadraArm.jpg)
+<img src="./assets/img/projects/QuadraArm.jpg" alt="QuadraArm Thumbnail" style="width:100%; height:auto; opacity:0.90;">
 <strong><a href="https://github.com/arefmousavi/QuadraArm" target="_blank">QuadraArm: A 4-DOF Robotic Arm Platform from Hardware Design to Motion Planning</a></strong>  
 Developed a complete 4-DOF robotic arm platform spanning hardware design and analysis, forward and inverse kinematics, velocity kinematics, trajectory planning, and motion imitation via demonstration.
 <br><br>
