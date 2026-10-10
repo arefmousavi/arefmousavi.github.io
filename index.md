@@ -52,7 +52,7 @@ I also work directly with <a href="https://scholar.google.com/citations?hl=en&us
 
 ## Research Experience
 <div style="display:flex; align-items:flex-start;">
-  <img src="./assets/img/SUT.png" alt="" style="width:50px; height:50px; margin-right:10px;">
+  <img src="./assets/img/RIML.jpg" alt="RIML Lab" style="width:50px; height:50px; margin-right:10px;">
   <div>
     <strong>Graduate Researcher</strong><br>
     <a href="https://www.linkedin.com/company/robust-and-interpretable-machine-learning-lab/" target="_blank">Robust and Interpretable Machine Learning (RIML) Lab</a>,
@@ -87,24 +87,24 @@ I also work directly with <a href="https://scholar.google.com/citations?hl=en&us
 ## Publications
 <img src="./assets/img/publications/transferbreaker_overview.jpg" alt="TransferBreaker overview" style="width:100%; height:auto; margin:0 0 8px 0;">
 <strong><a href="https://arxiv.org/abs/2610.09109" target="_blank">Breaking Adversarial Transferability in Fine-Tuned Speech Recognition</a></strong><br>
-Mojtaba Nafez*, <strong>Aref Mousavi*</strong>, Mohammad Ebrahim Mahdavi, Mobina Poulaei, Kiarash Kiani Feriz, Mohammad Hossein Rohban.<br>
-<div style="font-size:1.10em; font-weight:700; color:#ffffff; margin:3px 0 2px 0;"><em>NeurIPS 2026</em> <span style="font-size:0.88em; font-weight:400; color:#999999;">(* equal contribution)</span></div>
+Mojtaba Nafez*, <strong>Aref Mousavi*</strong>, Mohammad Ebrahim Mahdavi, Mobina Poulaei, Kiarash Kiani Feriz, Mohammad Hossein Rohban.
+<div style="font-size:1.10em; font-weight:700; color:#ffffff; margin:0 0 2px 0; line-height:1.2;"><em>NeurIPS 2026</em> <span style="font-size:0.88em; font-weight:400; color:#999999;">(* equal contribution)</span></div>
 <a href="https://arxiv.org/abs/2610.09109" target="_blank">[Paper]</a>
 <a href="https://github.com/rohban-lab/TransferBreaker" target="_blank">[Code]</a>
 <br><br>
 
 <img src="./assets/img/publications/ghostword.jpg" alt="GhostWord overview" style="width:100%; height:auto; margin:0 0 8px 0;">
 <strong><a href="https://openreview.net/pdf?id=vngoPfQCJf" target="_blank">GhostWord: A Fine-Grained Backdoor Attack on Automatic Speech Recognition</a></strong><br>
-Mojtaba Nafez, Mobina Poulaei, Kiarash Kiani Feriz, <strong>Aref Mousavi</strong>, Mohammad Ebrahim Mahdavi, Mohammad Hossein Rohban.<br>
-<div style="font-size:1.10em; font-weight:700; color:#ffffff; margin:3px 0 2px 0;"><em>TMLR</em></div>
+Mojtaba Nafez, Mobina Poulaei, Kiarash Kiani Feriz, <strong>Aref Mousavi</strong>, Mohammad Ebrahim Mahdavi, Mohammad Hossein Rohban.
+<div style="font-size:1.10em; font-weight:700; color:#ffffff; margin:0 0 2px 0; line-height:1.2;"><em>TMLR</em></div>
 <a href="https://openreview.net/pdf?id=vngoPfQCJf" target="_blank">[Paper]</a>
 <a href="https://github.com/rohban-lab/GhostWord" target="_blank">[Code]</a>
 <br><br>
 
 <img src="./assets/img/publications/hierarchical_overview.jpg" alt="Hierarchical Stabilization overview" style="width:100%; height:auto; margin:0 0 8px 0;">
 <strong><a href="https://arxiv.org/abs/2610.05310" target="_blank">Transferable Adversarial Robustness for Speech Foundation Models via Hierarchical Stabilization</a></strong><br>
-<strong>Aref Mousavi</strong>, Shahab Sherafat, Kiarash Kiani Feriz, Amirparsa Safari, Raoof Zare Moayedi, Mohammad Hossein Rohban, Mohammad Sabokrou.<br>
-<div style="font-size:1.10em; font-weight:700; color:#ffffff; margin:3px 0 2px 0;"><em>Submitted to ICASSP 2027</em></div>
+<strong>Aref Mousavi</strong>, Shahab Sherafat, Kiarash Kiani Feriz, Amirparsa Safari, Raoof Zare Moayedi, Mohammad Hossein Rohban, Mohammad Sabokrou.
+<div style="font-size:1.10em; font-weight:700; color:#ffffff; margin:0 0 2px 0; line-height:1.2;"><em>Submitted to ICASSP 2027</em></div>
 <a href="https://arxiv.org/abs/2610.05310" target="_blank">[Paper]</a>
 <a href="https://github.com/arefmousavi/hierarchical-robust-sfm" target="_blank">[Code]</a>
 <br><br>
