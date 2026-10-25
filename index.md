@@ -31,7 +31,7 @@ I also work directly with <a href="https://scholar.google.com/citations?hl=en&us
   <img src="./assets/img/SUT.png" alt="" style="width:50px; height:50px; margin-right:10px;">
   <div>
     <strong><a href="https://en.sharif.ir/" target="_blank">Sharif University of Technology</a></strong><br>
-    M.Sc. in Computer Engineering (Artificial Intelligence)<br>
+    M.Sc. in Artificial Intelligence (Computer Science & Engineering)<br>
     <span style="opacity:0.6;">Sep 2025 - Present</span><br>
     Supervisor: <a href="https://scholar.google.com/citations?user=pRyJ6FkAAAAJ&hl=en" target="_blank">Prof. Mohammad Hossein Rohban</a><br>
     GPA: 20.0/20.0 — <strong>Ranked 1st in the M.Sc. program</strong>
@@ -74,7 +74,7 @@ I also work directly with <a href="https://scholar.google.com/citations?hl=en&us
 <div style="margin-left:60px;">
   <strong>Researcher</strong><br>
   <a href="https://scholar.google.com/citations?hl=en&user=jqHXvT0AAAAJ" target="_blank">Prof. Mohammad Sabokrou</a>'s Research Team
-  (NUU; Visiting Researcher, OIST)<br>
+  (NUU; Researcher, OIST)<br>
   <span style="opacity:0.6;">Jun 2026 - Present</span><br>
   <ul style="padding-left: 1em; margin-left: 0; list-style-position: outside; margin-bottom: 6px;">
     <li>
