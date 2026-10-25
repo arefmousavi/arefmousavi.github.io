@@ -74,7 +74,7 @@ I also work directly with <a href="https://scholar.google.com/citations?hl=en&us
 <div style="margin-left:60px;">
   <strong>Researcher</strong><br>
   <a href="https://scholar.google.com/citations?hl=en&user=jqHXvT0AAAAJ" target="_blank">Prof. Mohammad Sabokrou</a>'s Research Team
-  (NUU; Researcher, OIST)<br>
+  (NewUU; Researcher, OIST)<br>
   <span style="opacity:0.6;">Jun 2026 - Present</span><br>
   <ul style="padding-left: 1em; margin-left: 0; list-style-position: outside; margin-bottom: 6px;">
     <li>
