@@ -17,7 +17,7 @@ title: Aref Mousavi
 ## About Me
 I am an M.Sc. student in Computer Engineering (Artificial Intelligence) and a graduate researcher at the <a href="https://www.linkedin.com/company/robust-and-interpretable-machine-learning-lab/" target="_blank">Robust and Interpretable Machine Learning (RIML) Lab</a> at <a href="https://en.sharif.ir/" target="_blank">Sharif University of Technology</a>, under the supervision of <a href="https://scholar.google.com/citations?user=pRyJ6FkAAAAJ&hl=en" target="_blank">Prof. Mohammad Hossein Rohban</a>. My research focuses on trustworthy machine learning, particularly adversarial robustness, speech foundation models, and representation learning.
 
-I also work directly with <a href="https://scholar.google.com/citations?hl=en&user=jqHXvT0AAAAJ" target="_blank">Prof. Mohammad Sabokrou</a> as a researcher in his team, focusing on adversarial robustness and representation learning for speech foundation models. Previously, I received my B.Sc. in Electrical Engineering (Control) from <a href="https://english.iut.ac.ir/" target="_blank">Isfahan University of Technology</a>, where I conducted research under the supervision of <a href="https://scholar.google.com/citations?user=0TmalsgAAAAJ&hl=en" target="_blank">Prof. Mohammad Reza Ahmadzadeh</a>.
+I also work directly with <a href="https://scholar.google.com/citations?hl=en&user=jqHXvT0AAAAJ" target="_blank">Prof. Mohammad Sabokrou</a> as a researcher in his team, focusing on adversarial robustness and representation learning for speech foundation models. Previously, I received my B.Sc. in Electrical Engineering from <a href="https://english.iut.ac.ir/" target="_blank">Isfahan University of Technology</a>, where I conducted research under the supervision of <a href="https://scholar.google.com/citations?user=0TmalsgAAAAJ&hl=en" target="_blank">Prof. Mohammad Reza Ahmadzadeh</a>.
 <br><br>
 
 ## Research Interests
@@ -42,7 +42,7 @@ I also work directly with <a href="https://scholar.google.com/citations?hl=en&us
   <img src="./assets/img/IUT.png" alt="" style="width:50px; height:50px; margin-right:10px;">
   <div>
     <strong><a href="https://english.iut.ac.ir/" target="_blank">Isfahan University of Technology</a></strong><br>
-    B.Sc. in Electrical Engineering (Control)<br>
+    B.Sc. in Electrical Engineering<br>
     <span style="opacity:0.6;">Jul 2025</span><br>
     Supervisor: <a href="https://scholar.google.com/citations?user=0TmalsgAAAAJ&hl=en" target="_blank">Prof. Mohammad Reza Ahmadzadeh</a><br>
     GPA: 18.58/20.0 (19.75/20.0 over the last two semesters) — <strong>Top 5% of B.Sc. graduates</strong><br>
