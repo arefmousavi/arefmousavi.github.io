@@ -5,7 +5,6 @@ title: Aref Mousavi
 
 ## Table of Contents
 - [About Me](#about-me)
-- [Research Interests](#research-interests)
 - [Education](#education)
 - [Research Experience](#research-experience)
 - [Publications](#publications)
@@ -15,15 +14,9 @@ title: Aref Mousavi
 <br><br>
 
 ## About Me
-I am an M.Sc. student in Artificial Intelligence and a graduate researcher at the <a href="https://www.linkedin.com/company/robust-and-interpretable-machine-learning-lab/" target="_blank">Robust and Interpretable Machine Learning (RIML) Lab</a> at <a href="https://en.sharif.ir/" target="_blank">Sharif University of Technology</a>, under the supervision of <a href="https://scholar.google.com/citations?user=pRyJ6FkAAAAJ&hl=en" target="_blank">Prof. Mohammad Hossein Rohban</a>. My research focuses on trustworthy machine learning, particularly adversarial robustness, speech foundation models, and representation learning.
+I am an M.Sc. student in Artificial Intelligence and a graduate researcher at the <a href="https://www.linkedin.com/company/robust-and-interpretable-machine-learning-lab/" target="_blank">Robust and Interpretable Machine Learning (RIML) Lab</a> at <a href="https://en.sharif.ir/" target="_blank">Sharif University of Technology</a>, under the supervision of <a href="https://scholar.google.com/citations?user=pRyJ6FkAAAAJ&hl=en" target="_blank">Prof. Mohammad Hossein Rohban</a>. My research focuses on trustworthy machine learning, particularly adversarial robustness, model security, and robust representation learning, with a special interest in speech foundation models.
 
-I also work directly with <a href="https://scholar.google.com/citations?hl=en&user=jqHXvT0AAAAJ" target="_blank">Prof. Mohammad Sabokrou</a> as a researcher in his team, focusing on adversarial robustness and representation learning for speech foundation models. Previously, I received my B.Sc. in Electrical Engineering from <a href="https://english.iut.ac.ir/" target="_blank">Isfahan University of Technology</a>, where I conducted research under the supervision of <a href="https://scholar.google.com/citations?user=0TmalsgAAAAJ&hl=en" target="_blank">Prof. Mohammad Reza Ahmadzadeh</a>.
-<br><br>
-
-## Research Interests
-- **Trustworthy machine learning:** adversarial robustness, backdoors, and model security
-- **Speech foundation models:** adaptation and downstream specialization
-- **Representation learning:** generalizable and transferable representations
+I also work directly with <a href="https://scholar.google.com/citations?hl=en&user=jqHXvT0AAAAJ" target="_blank">Prof. Mohammad Sabokrou</a> as a researcher in his team, focusing on trustworthy machine learning, adversarial robustness, and representation learning for speech foundation models. Previously, I received my B.Sc. in Electrical Engineering from <a href="https://english.iut.ac.ir/" target="_blank">Isfahan University of Technology</a>, where I conducted research under the supervision of <a href="https://scholar.google.com/citations?user=0TmalsgAAAAJ&hl=en" target="_blank">Prof. Mohammad Reza Ahmadzadeh</a>.
 <br><br>
 
 ## Education
@@ -142,6 +135,10 @@ Performed targeted FGSM, momentum PGD, and C&W attacks on images to manipulate t
 <img src="./assets/img/projects/EffiColorizer.jpg" alt="EffiColorizer Thumbnail" style="width:100%; height:auto; opacity:0.90;">
 <strong><a href="https://github.com/arefmousavi/EffiColorizer" target="_blank">EffiColorizer: An Efficient Image Colorization Framework for Low-Power Devices</a></strong>  
 Developed an efficient image colorization framework using a spectrally normalized GAN with an EfficientNet-B3 encoder integrated into a U-Net generator and a hybrid training strategy, achieving a **2.4× improvement in FID** while requiring approximately **10.8× fewer FLOPs** than the baseline.
+
+<img src="./assets/img/projects/SmartFactoryLine.jpg" alt="SmartFactoryLine Thumbnail" style="width:100%; height:auto; opacity:0.90;">
+<strong><a href="https://github.com/arefmousavi/SmartFactoryLine" target="_blank">SmartFactoryLine: Simulation-Based Industrial Automation and Control</a></strong>  
+Developed a simulated smart factory line using Siemens PLC control (TIA Portal), Factory I/O, and an OPC-connected Ignition HMI, integrating modular production-line automation, real-time monitoring, and closed-loop liquid-level regulation with alarms and automatic recovery.
 
 <img src="./assets/img/projects/QuadraArm.jpg" alt="QuadraArm Thumbnail" style="width:100%; height:auto; opacity:0.90;">
 <strong><a href="https://github.com/arefmousavi/QuadraArm" target="_blank">QuadraArm: A 4-DOF Robotic Arm Platform from Hardware Design to Motion Planning</a></strong>  
